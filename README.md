@@ -4,8 +4,8 @@ A sample of the page is given below :
 
  <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.06.24%20AM.png" width="500">
  <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.06.39%20AM.png" width="500">
- <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.06.39%20AM.png" width="500">
- <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.06.39%20AM.png" width="500">
- <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.06.39%20AM.png" width="500">
+ <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.06.52%20AM.png" width="500">
+ <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.07.00%20AM.png" width="500">
+ <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.07.07%20AM.png" width="500">
 
 
